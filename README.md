@@ -637,3 +637,4 @@ AND (lat,lon) IN (SELECT lat,lon FROM insurance GROUP BY lat,lon HAVING COUNT(*)
 ```
 
 # SQL_50_Q
+# SQL_50_Q
